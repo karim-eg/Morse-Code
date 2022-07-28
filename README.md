@@ -1,17 +1,25 @@
-# Morse_Code
+# Morse Code
 Encode &amp; Decode Morse Code
 
 A Simple App For Encode & Decode Morse Code And Also Provided with morse Dictionary to learn it easily.
 
+__Features of Morse Code App:__
 
-app screenshots:
+* Dictionary for learning.
+* Easy To Use.
+* Modern Design.
+* Encode & Decode Fastly.
+* Open Source Project, Fork it here: [Morse Code - github](https://github.com/kimoandroid/Morse-Code)
 
-![Screenshot_2022_07_28_20_32_04_37_67577f402b148e27847c90003e948bdf](https://user-images.githubusercontent.com/69405523/181639401-fa84e14d-ce0d-4b26-958b-7434f4c4d692.jpg)
+# What Is Morse Code
+Learn More About Morse Code Here: [Morse Code](https://en.wikipedia.org/wiki/Morse_code#:~:text=Morse%20code%20is%20a%20method,the%20inventors%20of%20the%20telegraph.)
 
-![Screenshot_2022_07_28_20_32_35_14_67577f402b148e27847c90003e948bdf](https://user-images.githubusercontent.com/69405523/181639466-19f251cc-e426-4689-bf42-377379579960.jpg)
+# Screenshots:
 
-![Screenshot_2022_07_28_20_32_38_09_67577f402b148e27847c90003e948bdf](https://user-images.githubusercontent.com/69405523/181639640-7a86528d-2bc3-4d1f-8aed-5a8f5cd602a4.jpg)
+Convert to morse | decode to text | Morse Dictionary
+------------ | ------------- | -------------
+![screen1](https://user-images.githubusercontent.com/69405523/181639401-fa84e14d-ce0d-4b26-958b-7434f4c4d692.jpg) | ![screen2](https://user-images.githubusercontent.com/69405523/181639466-19f251cc-e426-4689-bf42-377379579960.jpg) | ![screen3](https://user-images.githubusercontent.com/69405523/181639640-7a86528d-2bc3-4d1f-8aed-5a8f5cd602a4.jpg)
 
 
-license:
-Apatche Lisvense: https://www.apache.org/licenses/LICENSE-2.0
+# license:
+[Apache License](https://www.apache.org/licenses/LICENSE-2.0)
