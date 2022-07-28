@@ -3,6 +3,14 @@ Encode &amp; Decode Morse Code
 
 A Simple App For Encode & Decode Morse Code And Also Provided with morse Dictionary to learn it easily.
 
+
+__Download App__
+
+<a href="https://play.google.com/store/apps/details?id=com.EnceptCode.MorseCode">
+<img alt="Download App" height="80" src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" /></a>
+
+<br><br>
+
 __Features of Morse Code App:__
 
 * Dictionary for learning.
