@@ -3,9 +3,6 @@ Encode &amp; Decode Morse Code
 
 A Simple App For Encode & Decode Morse Code And Also Provided with morse Dictionary to learn it easily.
 
-
-[![StandWithPalestine](https://raw.githubusercontent.com/kimoandroid/StandWithPalestine/main/assets/palestine_banner.svg)](https://github.com/kimoandroid/StandWithPalestine/blob/main/Donate.md)
-
 <br>
 
 __Download App__
