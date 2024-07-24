@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-ads-lite:23.2.0@aar" external-system-id="GRADLE">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-4/68e07bbd1df5d6e7bd559e368b3471ee/transformed/play-services-ads-lite-23.2.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-4/68e07bbd1df5d6e7bd559e368b3471ee/transformed/play-services-ads-lite-23.2.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-4/68e07bbd1df5d6e7bd559e368b3471ee/transformed/play-services-ads-lite-23.2.0/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.gms/play-services-ads-lite/23.2.0/2a4b83d829c4944cec1f02c1d851e77322fbf32c/play-services-ads-lite-23.2.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

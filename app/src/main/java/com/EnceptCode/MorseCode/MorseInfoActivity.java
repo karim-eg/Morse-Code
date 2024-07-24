@@ -65,7 +65,7 @@ public class MorseInfoActivity extends AppCompatActivity {
 		
 		ad.setAdSize(com.google.android.gms.ads.AdSize.BANNER);
 		
-		ad.setAdUnitId("ca-app-pub-6910652682395372/8818939855");
+		ad.setAdUnitId(Consts.AD_ID);
 		ad.loadAd(new com.google.android.gms.ads.AdRequest.Builder().build());
 		
 		ln3.addView(ad);

@@ -1,7 +1,5 @@
 
-<manifest
-	xmlns:android="http://schemas.android.com/apk/res/android"
-	package="com.EnceptCode.MorseCode">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
 	<uses-feature android:name="android.hardware.camera" />
 	<uses-feature android:name="android.hardware.camera.autofocus" />
 	<uses-permission android:name="android.permission.CAMERA" />
@@ -9,6 +7,8 @@
 	<uses-permission android:name="android.permission.INTERNET" />
 	<uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 	<uses-permission android:name="com.google.android.gms.permission.ca-app-pub-6910652682395372/8818939855" />
+
+
 	<application
 		android:allowBackup="true"
 		android:icon="@drawable/app_icon"
@@ -18,23 +18,23 @@
 			android:name=".MainActivity"
 			android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
 			android:hardwareAccelerated="true"
-			android:screenOrientation="portrait"
 			android:exported="true">
 			<intent-filter>
 				<action android:name="android.intent.action.MAIN" />
 				<category android:name="android.intent.category.LAUNCHER" />
 			</intent-filter>
 		</activity>
+
 		<activity
 			android:name=".MorseInfoActivity"
 			android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
-			android:hardwareAccelerated="true"
-			android:screenOrientation="portrait" />
+			android:hardwareAccelerated="true" />
+
 		<activity
 			android:name=".AboutActivity"
 			android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
-			android:hardwareAccelerated="true"
-			android:screenOrientation="portrait" />
+			android:hardwareAccelerated="true" />
+
 		<activity
 			android:name="com.google.android.gms.ads.AdActivity"
 			android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
@@ -43,7 +43,7 @@
 			android:name="com.google.android.gms.version"
 			android:value="@integer/google_play_services_version" />
 
-<meta-data
+		<meta-data
             android:name="com.google.android.gms.ads.APPLICATION_ID"
             android:value="ca-app-pub-6910652682395372~9968369998"/>
 	</application>
